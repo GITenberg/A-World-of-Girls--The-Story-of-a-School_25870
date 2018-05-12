@@ -1,0 +1,37 @@
+_repo: A-World-of-Girls--The-Story-of-a-School_25870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Elizabeth Thomasina
+    - Smith, Elizabeth Thomasina Meade
+    - Thomas, Elizabeth
+    - Mead, L. T.
+    - Meade, Mrs. L. T.
+    - Meade, Lillie
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2008-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+title: 'A World of Girls: The Story of a School'
+url: http://www.gutenberg.org/ebooks/25870
